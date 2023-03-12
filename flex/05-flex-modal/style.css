@@ -36,13 +36,13 @@ body {
   justify-content: center;
 }
 
-.header {
+.title {
   font-size: 20px;
   font-weight: bold;
   padding-left: 15px;
 }
 
-.line1 {
+.header {
   display: flex;
   justify-content: flex-start;
 }
@@ -83,6 +83,6 @@ button.cancel {
   color: royalblue;
 }
 
-.line2 {
+.footer {
   padding-left: 57px;
 }
